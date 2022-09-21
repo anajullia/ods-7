@@ -15,21 +15,73 @@ primeiro conteúdo que tem abaixo do carrossel,
 se chama assim pois regula o conteúdo, mas é
 da mesma cor */
 
-.ajuste1{
+#ajuste1{
     position: absolute;
     width: 100%;
     height: 700px;
-    background-color: aquamarine;
 }
 
 /* div referente a imagem no ajuste1 */
 
 .ods7logo{
-    position:relative;
+    position: relative;
+    float: left;
     margin-left: 48px;
     margin-top: 48px;
 }
 
+.ajustedotexto1{
+    position: relative;
+    float: right;
+    margin-top: 200px;
+    margin-right: 15px;
+
+}
+
 .textoajuste1{
     text-align: center;
+    font-size: 24px;
+    font-family:'Kadwa';
+}
+
+#objetivos{
+    position: relative;
+    margin-left: 0;
+    margin-top: 700px;
+    width: 100%;
+    height: 550px;
+    background-color: rgb(133, 61, 119);
+}
+
+.ajustetituloobjetivos{
+
+}
+.tituloobjetivos{
+    text-align: center;
+    font-family: 'Kadwa';
+    font-size: 64px;
+}
+
+.um{
+    text-align: center;
+    font-family: 'Kadwa';
+    font-size: 48px;
+    margin-left: 48px;
+    float:left;
+}
+
+.dois{
+    text-align: center;
+    font-family: 'Kadwa';
+    font-size: 48px;
+    margin-left: 635px;
+    float:left;
+}
+
+.tres{
+    text-align: center;
+    font-family: 'Kadwa';
+    font-size: 48px;
+    margin-right: 48px;
+    float:right;
 }
