@@ -55,7 +55,7 @@ transparante */
 .ajustetituloobjetivos{
     position: absolute;
     width: 100%;
-    height: 500px;
+    height: 800px;
     background-color: aqua;
 
 }
@@ -67,52 +67,8 @@ transparante */
 
 .seteum{
     position: absolute;
-    width: 100%;
-    height: 65px;
-}
-
-.um{
     text-align: center;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 48px;
-    margin-top: 0px;
-    float:left;
-}
-
-.dois{
-    position: relative;
-    text-align: center;
-    font-family: 'Kadwa';
-    margin-left: 625px;
-    font-size: 48px;
-    float:left;
-}
-
-.tres{
-    text-align: center;
-    font-family: 'Kadwa';
-    font-size: 48px;
-    margin-left: 610px;
-    float:left;
-}
-.caixadosacordeons{
-    position: relative;
-    width: 100%;
-    height: 388px;
-    background-color: blueviolet; 
-}
-
-.ajusteacordeon1{
-    width: 300px !important;
-    margin-top: 100px;
-    margin-left: 10px;
-}
-
-.ajusteacordeon2{
-    float: left;
-    position: absolute;
-    width: 300px !important;
-    margin-top: -55px;
-    margin-left: 695px;
+    margin-left: 100px;
 }
