@@ -55,8 +55,7 @@ transparante */
 .ajustetituloobjetivos{
     position: absolute;
     width: 100%;
-    height: 800px;
-    background-color: aqua;
+    height: 425px;
 
 }
 .tituloobjetivos{
@@ -68,7 +67,33 @@ transparante */
 .seteum{
     position: absolute;
     text-align: center;
+    float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 100px;
+    margin-left: 290px;
+}
+
+.setedois{
+    position: absolute;
+    text-align: center;
+    float: left;
+    font-family: 'Kadwa';
+    font-size: 48px;
+    margin-left: 930px;
+}
+
+.setetres{
+    position: absolute;
+    text-align: center;
+    float: left;
+    font-family: 'Kadwa';
+    font-size: 48px;
+    margin-left: 1555px;
+}
+
+.acordeons{
+    position: absolute;
+    width: 100%;
+    margin-top: 100px;
+    justify-content: center;
 }
