@@ -6,7 +6,7 @@ Ela étudo que vem abaixo do carrossel*/
     position: absolute;
     margin-left: 0;
     width: 100%;
-    height: 4101px;
+    height: 3800px;
     background-color: #FFF1C3;
 }
 
@@ -79,7 +79,7 @@ transparante */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 930px;
+    margin-left: 735px;
 }
 
 .setetres{
@@ -88,7 +88,7 @@ transparante */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 1555px;
+    margin-left: 1235px;
 }
 
 .acordeons{
@@ -96,4 +96,89 @@ transparante */
     width: 100%;
     margin-top: 100px;
     justify-content: center;
+}
+
+#grafico{
+    float: left;
+    border-radius: 40px;
+    margin-left: 15px;
+    width: 600px;
+}
+
+.textografico{
+    float: right;
+    text-align: center;
+    font-family: 'Kadwa';
+    margin-right: 40px;
+    margin-top: 120px;
+    font-size: 22px;
+}
+
+.tituloexemplos{
+    font-family: 'Kadwa';
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.brasil{
+    float: right;
+    width: 600px;
+    margin-right: 15px;
+}
+
+.textobrasil{
+    float: left;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Kadwa';
+    margin-left: 140px;
+    margin-top: 110px;
+}
+
+.islandia{
+    float: left;
+    width: 600px;
+    margin-left: 15px;
+    margin-top: 200px;
+}
+
+.textoislandia{
+    float: right;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Kadwa';
+    margin-right: 120px;
+    margin-top: 150px;
+}
+
+.tituloheliotermica{
+    font-family: 'Kadwa';
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 380px;
+}
+
+.heliotermica{
+    float: right;
+    width: 600px;
+    margin-right: 15px;
+}
+
+.textoheliotermica{
+    float: left;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Kadwa';
+    margin-left: 140px;
+    margin-top: 110px;
+}
+
+.footer{
+    width: 100%;
+    margin-bottom: -300px;
 }
