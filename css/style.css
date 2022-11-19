@@ -1,6 +1,6 @@
 /* a classe se chama corpow pois é o corpo, 
 mas é como se fosse o wrapper 
-Ela étudo que vem abaixo do carrossel*/
+Ela é tudo que vem abaixo do carrossel*/
 
 .corpow{
     position: absolute;
@@ -13,7 +13,7 @@ Ela étudo que vem abaixo do carrossel*/
 /* a div se chama ajuste1 e se refere ao
 primeiro conteúdo que tem abaixo do carrossel,
 se chama assim pois regula o conteúdo, mas é
-transparante */
+transparente */
 
 #ajuste1{
     position: absolute;
