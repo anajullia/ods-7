@@ -7,13 +7,18 @@ xmlhttp.send();
 //Envia uma resposta do tipo XML
 xmlDoc = xmlhttp.responseXML;
 //Cria um array a partir da quantidade de postagens
-x = xmlDoc.getElementsByTagName("texto");
+x = xmlDoc.getElementsByTagName("corpo");
 
-function funcaoConteudo(){
-    for(i = x.length-1; i>=0; i--){
+function texto1(){
+    for(i=0;i<=1;i++){
         document.write(
-        "<p class='textoajuste1'>" + x[i].getAttribute("codigo") + "</p>" +getElementsByTagName("titulo")[0].childNodes[0].nodeValue + "</td>" +
-        "<td>" + x[i].getElementsByTagName("corpo")[0].childNodes[0].nodeValue.substr(0,150) +  "...</td>" +
-        "</tr>");
+           x[i].getElementsByTagName("texto1")[0].childNodes[0].nodeValue);
+    }
+}
+
+function imagem1(){
+    for(i=0;i<=1;i++){
+        document.write(
+           x[i].getElementsByTagName("imagem1")[0].childNodes[0].nodeValue);
     }
 }
