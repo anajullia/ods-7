@@ -71,7 +71,7 @@ transparente */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 240px;
+    margin-left: 200px;
 }
 
 .setedois{
@@ -80,7 +80,7 @@ transparente */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 735px;
+    margin-left: 645px;
 }
 
 .setetres{
@@ -89,7 +89,7 @@ transparente */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 1235px;
+    margin-left: 1100px;
 }
 
 .acordeons{
@@ -110,7 +110,7 @@ transparente */
     float: right;
     text-align: center;
     font-family: 'Kadwa';
-    margin-right: 30px;
+    margin-right: 0px;
     margin-top: 120px;
     font-size: 20px;
 }
