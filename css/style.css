@@ -26,21 +26,22 @@ transparente */
 .ods7logo{
     position: relative;
     float: left;
-    margin-left: 48px;
+    margin-left: 20px;
     margin-top: 48px;
 }
 
 .ajustedotexto1{
     position: relative;
-    float: right !important;
-    margin-top: 200px !important;
+    float: right;
+    margin-top: 200px;
     margin-right: 15px;
 
 }
 
 .textoajuste1{
+    margin-top: 60px;
     text-align: center;
-    font-size: 12px;
+    font-size: 26px;
     font-family:'Kadwa';
 }
 
@@ -70,7 +71,7 @@ transparente */
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
-    margin-left: 290px;
+    margin-left: 240px;
 }
 
 .setedois{
@@ -109,9 +110,9 @@ transparente */
     float: right;
     text-align: center;
     font-family: 'Kadwa';
-    margin-right: 40px;
+    margin-right: 30px;
     margin-top: 120px;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .tituloexemplos{
@@ -134,7 +135,7 @@ transparente */
     text-align: center;
     font-size: 24px;
     font-family: 'Kadwa';
-    margin-left: 140px;
+    margin-left: 60px;
     margin-top: 110px;
 }
 
@@ -150,7 +151,7 @@ transparente */
     text-align: center;
     font-size: 24px;
     font-family: 'Kadwa';
-    margin-right: 120px;
+    margin-right: 50px;
     margin-top: 150px;
 }
 
@@ -174,7 +175,7 @@ transparente */
     text-align: center;
     font-size: 24px;
     font-family: 'Kadwa';
-    margin-left: 140px;
+    margin-left: 100px;
     margin-top: 110px;
 }
 
