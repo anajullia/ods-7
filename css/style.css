@@ -40,7 +40,7 @@ transparente */
 
 .textoajuste1{
     margin-top: 60px;
-    text-align: center;
+    text-align: justify;
     font-size: 26px;
     font-family:'Kadwa';
 }
@@ -60,14 +60,14 @@ transparente */
 
 }
 .tituloobjetivos{
-    text-align: center;
+    text-align: justify;
     font-family: 'Kadwa';
     font-size: 64px;
 }
 
 .seteum{
     position: absolute;
-    text-align: center;
+    text-align: justify;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
@@ -76,7 +76,7 @@ transparente */
 
 .setedois{
     position: absolute;
-    text-align: center;
+    text-align: justify;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
@@ -85,7 +85,7 @@ transparente */
 
 .setetres{
     position: absolute;
-    text-align: center;
+    text-align: justify;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
@@ -108,7 +108,7 @@ transparente */
 
 .textografico{
     float: right;
-    text-align: center;
+    text-align: justify;
     font-family: 'Kadwa';
     margin-right: 0px;
     margin-top: 120px;
@@ -119,7 +119,7 @@ transparente */
     font-family: 'Kadwa';
     float: left;
     font-size: 40px;
-    text-align: center;
+    text-align: justify;
     margin-top: 100px;
     margin-left: 300px;
 }
@@ -132,7 +132,7 @@ transparente */
 
 .textobrasil{
     float: left;
-    text-align: center;
+    text-align: justify;
     font-size: 24px;
     font-family: 'Kadwa';
     margin-left: 60px;
@@ -148,7 +148,7 @@ transparente */
 
 .textoislandia{
     float: right;
-    text-align: center;
+    text-align: justify;
     font-size: 24px;
     font-family: 'Kadwa';
     margin-right: 50px;
@@ -159,7 +159,7 @@ transparente */
     font-family: 'Kadwa';
     float: left;
     font-size: 40px;
-    text-align: center;
+    text-align: justify;
     margin-top: 100px;
     margin-left: 380px;
 }
@@ -172,7 +172,7 @@ transparente */
 
 .textoheliotermica{
     float: left;
-    text-align: center;
+    text-align: justify;
     font-size: 24px;
     font-family: 'Kadwa';
     margin-left: 100px;
