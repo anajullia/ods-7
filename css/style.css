@@ -60,14 +60,14 @@ transparente */
 
 }
 .tituloobjetivos{
-    text-align: justify;
+    text-align: center;
     font-family: 'Kadwa';
     font-size: 64px;
 }
 
 .seteum{
     position: absolute;
-    text-align: justify;
+    text-align: center;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
@@ -76,7 +76,7 @@ transparente */
 
 .setedois{
     position: absolute;
-    text-align: justify;
+    text-align: center;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
@@ -85,7 +85,7 @@ transparente */
 
 .setetres{
     position: absolute;
-    text-align: justify;
+    text-align: center;
     float: left;
     font-family: 'Kadwa';
     font-size: 48px;
