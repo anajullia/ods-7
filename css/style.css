@@ -181,5 +181,39 @@ transparente */
 
 .footer{
     width: 100%;
-    margin-bottom: -300px;
+    margin-bottom: -2000px;
+}
+
+/* div referente ao blog */
+
+.titulonoticias{
+    font-size: 64px;
+    color: #f0ba0a;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+#titulodiv{
+    font-size: 24px;
+    color: #000000;
+}
+
+#texto{
+    background-color: #eed06e;
+}
+
+#texto1{
+    color: #000000;
+}
+
+.corpo-noticia{
+width: 90%; 
+font-size: min(25px, 4vw);
+}
+
+#link{
+    font-size: min(25px, 4vw);
+}
+
+.rodape{
+    margin-bottom: -200px;
 }
